@@ -1,0 +1,17 @@
+
+body{
+    font-size: 5px;
+}
+.first{
+font-size: 2em;
+}
+.second{
+font-size: 4em;
+}
+.third{
+font-size: 6em;
+}
+.smile{
+    position: fixed;
+    top: calc(100% - 200px - 100px);
+}
